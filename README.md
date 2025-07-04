@@ -3,7 +3,7 @@
 
 ###
 
-<h4 align="left">Sou um Desenvolvedor de Software focado em Back-End com Java, Atualmente estudando mais sobre Spring Boot, Docker e AWS, mas também atuo como Full-Stack.</h4>
+<h4 align="left">Desenvolvedor de Software com cerca de 3 anos de experiência em Java e Spring Boot, atuando em projetos internos e pessoais com foco em APIs REST. Atualmente em especialização em Arquitetura Java pela FIAP. Busco aplicar boas práticas de código, testes automatizados e estou em constante evolução com tecnologias como AWS e Docker..</h4>
 
 ###
 
