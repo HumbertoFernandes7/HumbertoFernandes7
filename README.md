@@ -25,5 +25,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="50" alt="instagram logo"  />
 </div>
 
-<a href="https://humbertofernandes7.github.io/portfolio/" target="_blank">Portfólio</a>
+<div align="left">
+  <a href="https://humbertofernandes7.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio">
+  </a>
+</div>
 ###
